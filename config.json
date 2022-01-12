@@ -3,7 +3,7 @@
  "port": "",
  "name": "katyrt",
  "auto-night-skip": "false",
- "loginmsg": "/login kartik",
+ "loginmsg": "/login kartik kartik",
  "prefix": "!",
  "version": "1.17.1"
 }
